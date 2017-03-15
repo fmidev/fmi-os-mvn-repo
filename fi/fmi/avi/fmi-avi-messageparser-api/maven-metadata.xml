@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>fi.fmi.avi</groupId>
+  <artifactId>fmi-avi-messageparser-api</artifactId>
+  <versioning>
+    <versions>
+      <version>1.5-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20170315124630</lastUpdated>
+  </versioning>
+</metadata>
