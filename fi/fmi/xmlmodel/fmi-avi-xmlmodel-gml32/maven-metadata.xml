@@ -3,10 +3,10 @@
   <groupId>fi.fmi.xmlmodel</groupId>
   <artifactId>fmi-avi-xmlmodel-gml32</artifactId>
   <versioning>
-    <release>1.1</release>
+    <release>1.2</release>
     <versions>
-      <version>1.1</version>
+      <version>1.2</version>
     </versions>
-    <lastUpdated>20180621082259</lastUpdated>
+    <lastUpdated>20181030121435</lastUpdated>
   </versioning>
 </metadata>
