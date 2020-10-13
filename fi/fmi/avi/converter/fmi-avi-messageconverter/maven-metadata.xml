@@ -3,10 +3,10 @@
   <groupId>fi.fmi.avi.converter</groupId>
   <artifactId>fmi-avi-messageconverter</artifactId>
   <versioning>
-    <release>3.10.1</release>
+    <release>4.0.0</release>
     <versions>
-      <version>3.10.1</version>
+      <version>4.0.0</version>
     </versions>
-    <lastUpdated>20200512092941</lastUpdated>
+    <lastUpdated>20201013132100</lastUpdated>
   </versioning>
 </metadata>
