@@ -3,10 +3,10 @@
   <groupId>fi.fmi.avi.converter</groupId>
   <artifactId>fmi-avi-messageconverter-tac</artifactId>
   <versioning>
-    <release>6.0.0-beta3</release>
+    <release>6.0.0-beta4</release>
     <versions>
-      <version>6.0.0-beta3</version>
+      <version>6.0.0-beta4</version>
     </versions>
-    <lastUpdated>20231114104731</lastUpdated>
+    <lastUpdated>20240108145437</lastUpdated>
   </versioning>
 </metadata>
