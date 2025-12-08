@@ -3,10 +3,10 @@
   <groupId>fi.fmi.avi.converter</groupId>
   <artifactId>fmi-avi-messageconverter-iwxxm</artifactId>
   <versioning>
-    <release>6.0.0</release>
+    <release>6.1.0</release>
     <versions>
-      <version>6.0.0</version>
+      <version>6.1.0</version>
     </versions>
-    <lastUpdated>20251121095352</lastUpdated>
+    <lastUpdated>20251208123443</lastUpdated>
   </versioning>
 </metadata>
